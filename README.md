@@ -1,4 +1,4 @@
-##ListView  - GridView - Kotlin
+#ListView  - GridView - Kotlin
 
 - ArrayAdapter
 ---
