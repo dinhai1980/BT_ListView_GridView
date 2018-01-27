@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.example.vudinhai.bt_listview_gridview.MainActivity">
+
+
+    <ViewStub
+        android:id="@+id/viewStubList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inflatedId="@+id/showLayout"
+        android:layout="@layout/mylistview" />
+
+    <ViewStub
+        android:id="@+id/viewStubGrid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inflatedId="@+id/showLayout"
+        android:layout="@layout/mygridview" />
+
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BT_ListView_GridView</string>
+
+    <string name="cup_cake">Android 1.5 </string>
+    <string name="donut">Android 1.6  </string>
+    <string name="eclair">Android 2.0 - 2.1 </string>
+    <string name="froyo">Android 2.2  </string>
+    <string name="ginger_bread">Android 2.3 </string>
+    <string name="honey_comb">Android 3.0 </string>
+    <string name="ice_cream_sandwich">Android 4.0 </string>
+    <string name="jelly_bean">Android 4.1</string>
+    <string name="kitkat">Android 4.4 </string>
+    <string name="lollipop">Android 5.0</string>
+    <string name="marshmallow">Android 6.0 </string>
+    <string name="nougat">Android 7.0 </string>
+    <string name="oreo">Android 8.x </string>
+</resources>
